@@ -54,10 +54,10 @@
     background-color: rgb(35, 214, 35);
     transform: scale(1.05);
 }
-@media screen and (max-width:350px){
+@media screen and (max-width:400px){
     .form{
         display:block;
-        width: 400px;
+        width: 350px;
         height: 700px;
         margin-left: 0px;
     } 
