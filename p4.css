@@ -6,8 +6,7 @@
     height:520px;
     width: 300px;
     border: 1px solid white;
-    margin-left: 490px;
-    margin-top: 40px;
+    margin:auto;
     /* position: absolute; */
     /* top:50%; */
     /* left:50%; */
@@ -59,6 +58,6 @@
         display:block;
         width: 350px;
         height: 700px;
-        margin-left: 0px;
+        margin:auto;
     } 
 }
