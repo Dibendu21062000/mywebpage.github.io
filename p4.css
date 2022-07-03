@@ -3,7 +3,7 @@
     padding: 0;
 }
 .form{
-    height:520px;
+    height:auto;
     width: 300px;
     border: 1px solid white;
     margin:auto;
@@ -57,7 +57,7 @@
     .form{
         display:block;
         width: 350px;
-        height: 700px;
+        height: auto;
         margin:auto;
     } 
 }
